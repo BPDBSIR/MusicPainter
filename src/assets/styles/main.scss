@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  cursor: default;
+}
+
+body,html {
+  background-color: #FFFFFF;
+  width: 100%;
+  height: 100%;
+}
+
+ul, li {
+  list-style-type: none;
+}
+
+a {
+  color: #384A7B;
+  text-decoration: none;
+}
+
+.common-border{
+  border: 2px solid #EBF2FC;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+@font-face {
+  font-family: "DIN";
+  src: url("../fonts/DIN-Bold.otf");
+}
+@font-face {
+  font-family: "iconfont"; /* Project id 2599184 */
+  src: url('//at.alicdn.com/t/font_2599184_y9o9maylmmm.woff2?t=1623120097973') format('woff2'),
+  url('//at.alicdn.com/t/font_2599184_y9o9maylmmm.woff?t=1623120097973') format('woff'),
+  url('//at.alicdn.com/t/font_2599184_y9o9maylmmm.ttf?t=1623120097973') format('truetype');
+}

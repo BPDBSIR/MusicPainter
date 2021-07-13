@@ -1,0 +1,50 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2599184 */
+  src: url('//at.alicdn.com/t/font_2599184_cpsodro5ohs.woff2?t=1623120678611') format('woff2'),
+  url('//at.alicdn.com/t/font_2599184_cpsodro5ohs.woff?t=1623120678611') format('woff'),
+  url('//at.alicdn.com/t/font_2599184_cpsodro5ohs.ttf?t=1623120678611') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pause-mini-fill:before {
+  content: "\e7bd";
+}
+
+.icon-baoguo_shounahe:before {
+  content: "\eb2f";
+}
+
+.icon-music-fill:before {
+  content: "\e7b4";
+}
+
+.icon-play-list-fill:before {
+  content: "\e7c4";
+}
+
+.icon-play-mini-fill:before {
+  content: "\e7c5";
+}
+
+.icon-skip-back-mini-fill:before {
+  content: "\e7cc";
+}
+
+.icon-skip-forward-mini-fill:before {
+  content: "\e7ce";
+}
+
+.icon-stop-mini-fill:before {
+  content: "\e7d3";
+}
+
+.icon-zhuti_tiaosepan:before {
+  content: "\eaec";
+}
